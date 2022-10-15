@@ -1,7 +1,7 @@
 # BomBRMan
 
-#Sobre
-Este é um jogo estilo Bomberman, porém com muitos memes satirizando as emissoras de TV Brasileiras. 
+<h1>Sobre</h1>
+<p>Este é um jogo estilo Bomberman, porém com muitos memes satirizando as emissoras de TV Brasileiras.</p>
 O jogo enaltece as características de cada estado e região brasileira, para isso cada fase é em um cenário totalmente diferente.
 
 O que torna esse jogo divertido é que cada cenário é diferente, e cada fase é uma lógica diferente, desafiando até os jogadores mais dedicados.
