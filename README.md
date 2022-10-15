@@ -1,24 +1,23 @@
-# BomBRMan
+<h1>BomBRMan<h1>
 
-<h1>Sobre</h1>
+<h2>Sobre</h2>
 <p>Este é um jogo estilo Bomberman, porém com muitos memes satirizando as emissoras de TV Brasileiras.</p>
-O jogo enaltece as características de cada estado e região brasileira, para isso cada fase é em um cenário totalmente diferente.
+<p>O jogo enaltece as características de cada estado e região brasileira, para isso cada fase é em um cenário totalmente diferente.</p>
+<p>O que torna esse jogo divertido é que cada cenário é diferente, e cada fase é uma lógica diferente, desafiando até os jogadores mais dedicados.</p>
 
-O que torna esse jogo divertido é que cada cenário é diferente, e cada fase é uma lógica diferente, desafiando até os jogadores mais dedicados.
+<p>Ps: O Boss final do jogo irá te tirar algumas horas de jogo até mesmo se você zerou Dark Souls.</p>
 
-Ps: O Boss final do jogo irá te tirar algumas horas de jogo até mesmo se você zerou Dark Souls.
+<p>Foi desenvolvido em parceria com mais dois amigos de curso (Ciência da Computação) para a Universidade Tecnológica Federal do Paraná campus Medianeira.</p>
 
-Foi desenvolvido em parceria com mais dois amigos de curso (Ciência da Computação) para a Universidade Tecnológica Federal do Paraná campus Medianeira.
+  <h2>Detalhes</h2>
+<p>A versão completado do jogo foi desenvolvida para Windows 64bits, uma versão demo está disponível para Android.</p>
 
-#Detalhes
-A versão completado do jogo foi desenvolvida para Windows 64bits, uma versão demo está disponível para Android.
+  <h2>Controles</h2>
+<p>Setas controlam o personagem.</p>
+<p>'X' coloca a bomba.</p>
 
-# Controles
-Setas controlam o personagem.
-'X' coloca a bomba.
+  <h2>História</h2>
+<p>O jogo possui uma história, vídeo e narrativa própria todo em estilo meme.</p>
 
-# História
-O jogo possui uma história, vídeo e narrativa própria todo em estilo meme.
-
-# Objetivo
-Divirta-se com este remake clássico de um jogo que marcou história.
+  <h2>Objetivo</h2>
+<p>Divirta-se com este remake clássico de um jogo que marcou história.</p>
