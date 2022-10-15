@@ -1,4 +1,4 @@
-<h1>BomBRMan<h1>
+<h1>BomBRMan</h1>
 
 <h2>Sobre</h2>
 <p>Este é um jogo estilo Bomberman, porém com muitos memes satirizando as emissoras de TV Brasileiras.</p>
