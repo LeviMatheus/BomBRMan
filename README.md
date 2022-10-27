@@ -1,9 +1,6 @@
-<h1>BomBRMan <a href='https://emojitool.com/pt/flag-for-brazil'>🇧🇷</a> </h1>
+<h1>BomBRMan 🇧🇷 </h1>
 
-<video width="1280" height="720" controls>
-  <source src="https://github.com/LeviMatheus/BomBRMan/blob/master/intro_.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/50380963/198414573-87acf0ab-fece-4901-a3f9-39c050ba990e.mp4
 
 <h2>Sobre</h2>
 <p>Este é um jogo estilo Bomberman, porém com muitos memes satirizando as emissoras de TV Brasileiras.</p>
